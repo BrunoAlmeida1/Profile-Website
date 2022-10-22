@@ -372,7 +372,7 @@ a {
     height: 350px;
     width: 400px;
     margin: 3rem 0 0;
-    background-image: url('./imgs/Python-fun.jpg');
+    background-image: url('./imgs/dotnet.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -391,7 +391,7 @@ a {
     margin-top: 0;
     padding-top: 0;
     margin: 3rem 0 0;
-    background-image: url('./imgs/Java-fun.jpg');
+    background-image: url('./imgs/Python-fun.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -810,7 +810,7 @@ a {
 
     }
 
-    .wrapper{
+    .wrapper {
         flex-direction: column;
     }
 
