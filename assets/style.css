@@ -9,11 +9,6 @@ body {
     scroll-behavior: smooth;
 }
 
-.cell {
-    margin: 0%;
-    padding: 0%;
-}
-
 /* HEADER */
 
 .header-wrapper {
@@ -677,7 +672,7 @@ a {
 
 /* FAB */
 
-.fab {
+#fab {
     position: fixed;
     right: 47.5%;
     z-index: 5000;
@@ -685,7 +680,7 @@ a {
     cursor: pointer;
 }
 
-.fab a {
+#fab a {
     margin: auto;
     color: transparent;
     border: transparent;
@@ -938,7 +933,7 @@ a {
         text-align: center;
     }
 
-    .fab {
+    #fab {
         right: 42%;
     }
 }
