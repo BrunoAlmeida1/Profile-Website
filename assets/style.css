@@ -678,6 +678,7 @@ a {
     z-index: 5000;
     bottom: 0;
     cursor: pointer;
+    display: none;
 }
 
 #fab a {
